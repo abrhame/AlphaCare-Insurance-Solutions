@@ -1,0 +1,5 @@
+[core]
+    remote = localstorage
+    autostage = true
+['remote "localstorage"']
+    url = /home/abrham/Documents/kifiya/dvcstorage
